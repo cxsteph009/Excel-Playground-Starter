@@ -5,5 +5,5 @@ In this activity, I am using Excel to average and assign a final grade for a cla
 
 ## Analysis
 Each student has a total of three grades. Those grades were averaged and bonus points were added to their final score. There were
-six students that scored a 90 or above, with the other three students scoring an 80 or above. Two students were able to raise
-their grades from the 80s to the 90s. 
+six students that scored a 90 or above, with the other three students scoring an 80 or above. After adding bonus points, two students were able to raise
+their grades from the 80s to the 90s. All but one student received bonus points. 
